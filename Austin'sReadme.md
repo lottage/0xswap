@@ -2,7 +2,7 @@
    shell into '/pages/api/keyvault' 
       -- npm run dev 
    whatever ip/port chosen, update .env.local in /defiswap
-
+*!* Must check to see if keyvault needs to be external of 0xswap for security
 
 
 Lots of 'localhost' to replace everywhere (so many, double check all the image calls)
